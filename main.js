@@ -1,10 +1,7 @@
-require('es6-shim');
-
 import "babel-polyfill";
 
 import {Injector} from './di';
 import {Kitchen} from './kitchen';
-
 
 function main() {
   let injector = new Injector([]);
