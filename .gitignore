@@ -75,4 +75,8 @@ build/Release
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
 
-# Created by .ignore support plugin (hsz.mobi)
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
